@@ -1,5 +1,5 @@
 # Game-A-Thon : Introduction to git and github
-## NAME: Atharv Kevalram
+## NAME: _Atharv Kevalram_
 ### Problem Statement 1 :Given Two Integers Write a code to add them.
 Test case: Input : 21 , 4  Output: 25
 ```c
