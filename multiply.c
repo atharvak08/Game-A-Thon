@@ -9,6 +9,6 @@ int main() {
     // calculating sum
     multiply = number1 * number2;      
     
-    printf("The sum is %d * %d = %d", number1, number2, multiply);
+    printf("The multiplication is %d * %d = %d", number1, number2, multiply);
     return 0;
 }
