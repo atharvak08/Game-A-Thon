@@ -2,7 +2,7 @@
 ## NAME: Atharv Kevalram
 ### Problem Statement 1 :Given Two Integers Write a code to add them.
 Test case: Input : 21 , 4  Output: 25
-'''c
+```c
 #include <stdio.h>
 int main() {    
 
@@ -18,13 +18,13 @@ int main() {
     return 0;
 }
 
-'''
+```
 
 ### Problem Statement 2 :write a code to check whether given number is palindrome or not.
 Test case 1: Input :121 Output: Palindrome number
 Test case 2: Input: 123 Output: not palindrome
 
-'''c
+```c
 #include<stdio.h>  
 int main()    
 {    
@@ -44,11 +44,11 @@ else
 printf("not palindrome");   
 return 0;  
 }   
-'''
+```
 
 ### Problem Statement 3 :write a code to multiply two integers.
 Test case : Input: 2,3 Output:6
-'''c
+```c
 #include <stdio.h>
 int main() {    
 
@@ -64,4 +64,4 @@ int main() {
     return 0;
 }
 
-'''
+```
