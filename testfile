@@ -1,4 +1,4 @@
-package com.csuite.service.processed.deal
+package com.service.processed.deal
 
 val cc= ds.filter("col1==123")
 dd.show(false)
